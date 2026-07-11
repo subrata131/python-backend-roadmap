@@ -12,5 +12,4 @@ while count<3:
         print("Wrong password\nTry Again")
         
     count+=1
-    # if count==3:
-    #     print("Account Locked")
+   
