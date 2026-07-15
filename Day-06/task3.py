@@ -1,0 +1,13 @@
+numbers=[10,20,30,60,50,32]
+numbers.append(90)
+print(numbers)
+numbers.insert(10,100)
+print(numbers)
+numbers.remove(100)
+print(numbers)
+numbers.pop()
+print(numbers)
+numbers.sort()
+print(numbers)
+numbers.reverse()
+print(numbers)
