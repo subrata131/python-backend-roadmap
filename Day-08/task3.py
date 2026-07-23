@@ -1,0 +1,11 @@
+car={
+    "brand":"Toyota",
+    "model":"Fortunar",
+    "year":2025
+}
+car["color"]="Black"
+print(car)
+car["price"]=2031200
+print(car)
+car.pop("model")
+print(car)
