@@ -1,1 +1,2 @@
-
+class car:
+    pass
